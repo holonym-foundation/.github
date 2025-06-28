@@ -1,3 +1,4 @@
+![human-tech-banner](https://cdn.jsdelivr.net/gh/humantech-collective/brand@b9496cf98d63e10f2cdd9b0dce2563e6e586d1e9/banners/1500x500_banner-001_twitter_human-tech.png)
 ## welcome 👋
 
 these repositories are maintained by **Holonym Foundation** and together form the [**human.tech**](https://human.tech) framework: *a system of modular and interoperable protocols designed to empower humans with **security**, **privacy**, and **digital personhood*** 
@@ -39,7 +40,6 @@ we welcome contributors from all backgrounds—privacy researchers, protocol eng
 - 🌐 Website: [human.tech](https://human.tech)
 - 🧠 Blog & Research: [https://human.tech/blog](https://human.tech/blog)
 - 💬 Community: [@0xholonym](https://twitter.com/0xholonym) on X (Twitter)
-
 ---
-
+  ![human-tech-banner](https://cdn.jsdelivr.net/gh/humantech-collective/brand@b9496cf98d63e10f2cdd9b0dce2563e6e586d1e9/banners/1500x500_banner-002_twitter_human-tech.png)
 _✌️ Built for humans. Powered by truth. Secured by cryptography._
